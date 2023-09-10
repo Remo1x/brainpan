@@ -1,0 +1,5 @@
+offset = 524
+
+badchars = "\x00"
+
+ret = "\xf3\x12\x17\x31"
